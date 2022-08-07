@@ -32,8 +32,9 @@ Good luck flippin' !!!
 IMPORTANT INFORMATION: THIS MOD IS CONFIRMED BY THE ADMINS AND YOU WILL NOT GET BANNED FOR USING IT
 
 Images
-Setup -
-https://user-images.githubusercontent.com/110674936/183275323-64697e3b-c6da-4302-837a-8bb530208890.png
+Setup -![183275422-6ea5bc7a-8645-44f2-93dc-6ac52e43cf6c](https://user-images.githubusercontent.com/110760307/183279354-305b1888-4128-44f9-94a6-9e2af809b8d2.png)
+
 
 Mushroom Eternal's custom ah GUI 
-https://user-images.githubusercontent.com/110674936/183275422-6ea5bc7a-8645-44f2-93dc-6ac52e43cf6c.png
+![183275422-6ea5bc7a-8645-44f2-93dc-6ac52e43cf6c (1)](https://user-images.githubusercontent.com/110760307/183279370-96c7d570-8051-4b51-b169-89736acff418.png)
+
